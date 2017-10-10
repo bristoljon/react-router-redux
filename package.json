@@ -14,6 +14,9 @@
     "index.js",
     "middleware.js",
     "reducer.js",
+    "reducerImmutable.js",
+    "selectors.js",
+    "selectorsImmutable.js",
     "umd"
   ],
   "main": "index.js",
